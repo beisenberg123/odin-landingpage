@@ -37,6 +37,7 @@ ul {
 
 .partonebody {
     display: flex;
+    height: 300px;
 }
 
 .parttwo {
@@ -47,9 +48,6 @@ ul {
     background: #E5E7EB
 }
 
-.partfour {
-
-}
 
 .footer {
     background: #1F2937;
