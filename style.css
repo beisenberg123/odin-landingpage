@@ -11,9 +11,14 @@ body {
     background: #1F2937;
     color: white;
     display: flex;
+    flex-direction: column;
+    padding: 0px 300px;
+}
+
+.header {
+    display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 300px;
 }
 
 .headerlogo {
@@ -22,11 +27,30 @@ body {
 }
 
 ul {
-    display: flex;
     list-style: none;
 }
 
 .headerlinks {
     display: flex;
     gap: 24px;
+}
+
+.partonebody {
+    display: flex;
+}
+
+.parttwo {
+    display: flex;
+}
+
+.partthree {
+    background: #E5E7EB
+}
+
+.partfour {
+
+}
+
+.footer {
+    background: #1F2937;
 }
