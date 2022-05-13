@@ -74,7 +74,7 @@ img {
 }
 
 .parttwo {
-    height: 400px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -85,16 +85,28 @@ img {
     font-weight: 900;
     color: #1F2937;
     padding: 36px;
-}
+}   
 
 .parttwocontent {
     display: flex;
-    align-items: center;
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: center;
+    gap: 32px;
+    max-width: 800px;
+}
+
+.info {
+    max-width: 200px;
 }
 
 .info img {
-    width: 200px;
+   height: 100px;
+   width: 100px;
+   border: 4px solid #3882F6;
+   border-radius: 8px;
 }
+
 
 .partthree {
     background: #E5E7EB
