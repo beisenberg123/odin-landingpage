@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    margin: 0px 50px;
+    margin: 0px;
 }
 
 .partone {
@@ -10,6 +10,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-between;
+    padding: 0px 200px;
 }
 
 ul {
