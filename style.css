@@ -46,6 +46,12 @@ ul {
     width: 400px;
 }
 
+.heromaintext {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8
+}
+
 .parttwo {
     display: flex;
 }
