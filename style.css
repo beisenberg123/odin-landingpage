@@ -89,6 +89,11 @@ img {
 
 .parttwocontent {
     display: flex;
+    align-items: center;
+}
+
+.info img {
+    width: 200px;
 }
 
 .partthree {
