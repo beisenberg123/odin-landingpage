@@ -36,8 +36,14 @@ ul {
 }
 
 .partonebody {
+    height: 200px;
     display: flex;
-    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.modalandimage {
+    width: 400px;
 }
 
 .parttwo {
