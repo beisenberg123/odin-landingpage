@@ -42,8 +42,8 @@ ul {
     align-items: center;
 }
 
-.modalandimage {
-    width: 425px;
+.modal {
+    width: 400px;
 }
 
 .heromaintext {
@@ -65,6 +65,10 @@ button {
     border-radius: 8px;
     padding: 8px 24px;
 }
+
+img {
+    width: 300px;
+    height: auto;
 }
 
 .parttwo {
