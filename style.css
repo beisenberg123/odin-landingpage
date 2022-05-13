@@ -4,5 +4,6 @@ body {
 }
 
 .partone {
+    background: #1F2937;
     display: flex;
 }
