@@ -109,7 +109,9 @@ img {
 
 
 .partthree {
-    background: #E5E7EB
+    background: #E5E7EB;
+    height: 200px;
+    display: flex;
 }
 
 
