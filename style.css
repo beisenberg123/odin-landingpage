@@ -40,10 +40,12 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 30px;
 }
 
 .modal {
-    width: 400px;
+    max-width: 400px;
+    flex-grow: 1;
 }
 
 .heromaintext {
