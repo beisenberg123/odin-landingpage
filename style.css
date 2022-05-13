@@ -36,14 +36,14 @@ ul {
 }
 
 .partonebody {
-    height: 200px;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .modalandimage {
-    width: 400px;
+    width: 425px;
 }
 
 .heromaintext {
@@ -55,6 +55,16 @@ ul {
 .herosecondarytext {
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 8px;
+}
+
+button {
+    background: #3882F6;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 8px 24px;
+}
 }
 
 .parttwo {
